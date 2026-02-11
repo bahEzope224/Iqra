@@ -42,5 +42,3 @@ Objectif : préparer les participants au Ramadan avec une base solide.
 
 ---
 
-## 📂 Structure du projet
-
